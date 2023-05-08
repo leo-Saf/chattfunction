@@ -8,7 +8,9 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 
 2- Installera beroenden: 'npm install'
 
-3- Starta backend-servern: 'npm start'
+3-  ' npm install axios '
+
+4- Starta backend-servern: 'npm start'
 
 **Frontend**
 
@@ -18,7 +20,11 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 
 3- Installera beroenden: 'npm install'
 
-4- Starta frontend-applikationen: 'npm run dev'
+4- ' npm install axios '
+
+5- ' npm i react-chat-engine-pretty '
+
+6- Starta frontend-applikationen: 'npm run dev'
 
 ***Användning***
 
