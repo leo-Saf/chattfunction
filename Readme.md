@@ -3,8 +3,11 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 Installation
 
 Backend
+
 1- Navigera till projektets backend-mapp: cd chattfunction/backend
+
 2- Installera beroenden: 'npm install'
+
 3- Starta backend-servern: 'npm start'
 
 Frontend
