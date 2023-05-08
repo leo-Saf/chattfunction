@@ -20,7 +20,7 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 
 4- Starta frontend-applikationen: 'npm run dev'
 
-**Användning**
+***Användning***
 
 1- Öppna webbläsaren och gå till http://localhost:3000.
 
@@ -32,7 +32,7 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 
 5- Skriv meddelanden i chattgruppen och se när andra användare skriver tillbaka.
 
-****Tekniker****
+***Tekniker***
 
 **Frontend**
 
@@ -54,7 +54,7 @@ Det här är en chat-app som använder sig av React och Chat Engine för att mö
 
 * ChatEngine API
 
-****Beskrivning av koden****
+***Beskrivning av koden***
 
 **'App.js'**
 
